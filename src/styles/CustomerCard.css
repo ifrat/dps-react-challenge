@@ -1,0 +1,13 @@
+.customer-card {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+  background-color: #fafafa;
+}
+
+.customer-card.highlighted {
+  background-color: #ccc;
+  border-color: #807f7e;
+}

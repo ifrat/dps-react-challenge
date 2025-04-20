@@ -44,3 +44,22 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# DPS CRM React Challenge
+
+This project is a solution to the DPS Frontend Coding Challenge.
+
+
+##  Tech Used
+- React 19
+- TypeScript
+- Axios
+- CSS
+
+## Features Implemented
+- Fetches customer data from [https://dummyjson.com/users](https://dummyjson.com/users)
+- Live search by name (first or last)
+- Debounced input (1s delay)
+- Filter by city using a dynamic dropdown
+- Highlight the oldest customer in each city with a checkbox
+- Fully responsive design
